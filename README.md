@@ -1,6 +1,8 @@
 # chrome
 Chrome Browser with Google Talk
 
+See: https://github.com/lemaypy/chrome
+
 Usage:
 
 docker run -it \
